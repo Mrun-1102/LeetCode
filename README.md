@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mrun-1102/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Mrun-1102/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mrun-1102/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mrun-1102/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mrun-1102/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
