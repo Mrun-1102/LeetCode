@@ -47,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mrun-1102/LeetCode/tree/master/0125-valid-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Mrun-1102/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
